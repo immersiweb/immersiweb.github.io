@@ -1,0 +1,85 @@
+Exporter version: 6.4.4, Blender version: 2.83.0
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  true
+		Material Type       :  PBR
+		Positions Precision :  2
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of mesh:  Ganesha
+		processing begun of material:  Gold_M
+		Custom split normals with tangents being used
+		num positions      :  70587
+		num normals        :  70587
+		num tangents       :  282348
+		num uvs            :  141174
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  73212
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Lotus
+		processing begun of material:  Lotus_M
+		Custom split normals with tangents being used
+		num positions      :  11261
+		num normals        :  11261
+		num tangents       :  45044
+		num uvs            :  22522
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12100
+	processing begun of mesh:  Flute
+		processing begun of material:  Flute_M
+		Custom split normals with tangents being used
+		num positions      :  1900
+		num normals        :  1900
+		num tangents       :  7600
+		num uvs            :  3800
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1048
+	processing begun of mesh:  Food
+		processing begun of material:  Foor_M
+		Custom split normals with tangents being used
+		num positions      :  1504
+		num normals        :  1504
+		num tangents       :  6016
+		num uvs            :  3008
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1920
+	processing begun of mesh:  Prop
+		processing begun of material:  Flute_M
+		registered as also a user of material:  Flute_M
+		Custom split normals with tangents being used
+		num positions      :  4035
+		num normals        :  4035
+		num tangents       :  16140
+		num uvs            :  8070
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2814
+	processing begun of mesh:  Back_Prop
+		processing begun of material:  Polished_Gold_M
+		Custom split normals with tangents being used
+		num positions      :  1629
+		num normals        :  1629
+		num tangents       :  6516
+		num uvs            :  3258
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1584
+========= Writing of JSON file started =========
+	writing mesh:  Ganesha
+	writing mesh:  Lotus
+	writing mesh:  Flute
+	writing mesh:  Food
+	writing mesh:  Prop
+	writing mesh:  Back_Prop
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 10.1682 secs
